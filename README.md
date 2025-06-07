@@ -47,7 +47,7 @@ The challenge is to:
 This project was developed by the **DeepAnalytics** team as part of the 2025 Google Case Competition.
 
 **Team Members**:  
-Evelyn Liang, Huei-Sin Liu, Jim Cao, Jingwen Zhang, Qilian Wu, Shelly Wei, Corey Lin
+Corey Lin, Evelyn Liang, Huei-Sin Liu, Jim Cao, Jingwen Zhang, Qilian Wu, Shelly Wei
 
 ## License & Disclaimer
 
