@@ -7,6 +7,8 @@ This project presents a dynamic, month-by-month staffing model to optimize the a
 
 Developed as part of the 2025 Google Case Study Competition, the model addresses real-world operational constraints including agent capacity, hiring/firing lead times, and advertiser eligibility thresholds.
 
+Our team won second place in this competition.
+
 ## Problem Statement
 
 Google provides 60-day support to new advertisers who meet certain projected spending thresholds. Each support agent can manage up to 10 advertisers at any given time. However, daily fluctuations in advertiser sign-ups and agent lifecycle constraints make staffing planning non-trivial.
